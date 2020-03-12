@@ -1,0 +1,18 @@
+{
+  "FilePath": "c:\\Users\\rkkr9\\Documents\\MSCS\\SU-MSCS_WQ19\\Soft.Arch.Design\\repo\\SU_CPSC_5200_19WQ\\image\\image.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "image",
+  "Documents": []
+}

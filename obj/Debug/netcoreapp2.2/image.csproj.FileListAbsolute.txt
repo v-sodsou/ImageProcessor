@@ -1,0 +1,16 @@
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/bin/Debug/netcoreapp2.2/image.deps.json
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/bin/Debug/netcoreapp2.2/image.runtimeconfig.json
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/bin/Debug/netcoreapp2.2/image.runtimeconfig.dev.json
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/bin/Debug/netcoreapp2.2/image.dll
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/bin/Debug/netcoreapp2.2/image.pdb
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/obj/Debug/netcoreapp2.2/image.csprojAssemblyReference.cache
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/obj/Debug/netcoreapp2.2/image.RazorAssemblyInfo.cache
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/obj/Debug/netcoreapp2.2/image.RazorAssemblyInfo.cs
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/obj/Debug/netcoreapp2.2/image.AssemblyInfoInputs.cache
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/obj/Debug/netcoreapp2.2/image.AssemblyInfo.cs
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/obj/Debug/netcoreapp2.2/image.RazorTargetAssemblyInfo.cache
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/obj/Debug/netcoreapp2.2/image.dll
+/Users/sonalidsouza/Documents/SoftwareArchitecture/imageProcessor/obj/Debug/netcoreapp2.2/image.pdb
