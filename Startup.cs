@@ -36,13 +36,13 @@ namespace ImageProcessor
                 options.SwaggerDoc("v1", new Info
                 {
                     Title = "CPSC 5200 Image Processor ",
+                    Description = "Example of API Usage - 'http://localhost:5000/image?operations=rotateleft,resize(10),rotateright,thumbnail,grayscale(0)'",
                     Version = "v1",
                     Contact = new Contact()
                     {
                         Name = "Sonali",
                         Email = "dsouzasonali@outlook.com"
-                    },
-                    Description = "CPSC 5200 Image Processor Assignment"
+                    }
                 });
             });
 

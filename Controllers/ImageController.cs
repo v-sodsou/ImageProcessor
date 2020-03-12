@@ -20,6 +20,7 @@ namespace ImageProcessor.Controllers
         [HttpPost]
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
+        [Produces("image/png")]
         public void ProcessImage([FromQuery(Name="operations")] string operations,[FromBody] byte[] image)
         {
             try
