@@ -2,7 +2,7 @@
 
 API Usage Example:
 
-curl      "http://localhost:5000/image?operations=resize(10),rotateleft,rotateright,thumbnail,grayscale(0)"      --header "Content-Type: image/jpg"      --data-binary "@Seattle.jpg"      --output "output.png"      --dump-header -
+curl      "http://localhost:5000/image?operations=rotateleft,resize(10),rotateright,thumbnail,grayscale(0)"      --header "Content-Type: image/jpg"      --data-binary "@Seattle.jpg"      --output "output.png"      --dump-header -
 
 Implemented Image Operation Details:
 
