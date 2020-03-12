@@ -24,9 +24,19 @@ namespace ImageProcessor.Controllers
         {
             try
             {
+               
                 if (image == null || image.Count() == 0) {
                     Response.StatusCode = (int)System.Net.HttpStatusCode.BadRequest;
                     return;
+                }
+
+                if(string.IsNullOrEmpty(operations))
+                {
+                    Response.ContentType = Request.ContentType;
+                    Response.StatusCode = (int)System.Net.HttpStatusCode.OK;
+                    Response.Body.Write(image);
+                    return;
+                    
                 }
                 var processor = ProcessorFactory.GetImageProcessor();
                 byte[] processedImage = processor.ProcessImage(image,operations);
